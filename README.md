@@ -57,6 +57,9 @@ With behaviour of individual activity, file hash, IP, name etc.
 
 ![image](https://github.com/user-attachments/assets/acd0866e-cfab-4e47-b694-07d4735e518d)
 
+As well as all requests gone to outside world, URL, content etc  
+
+![image](https://github.com/user-attachments/assets/f9f3672d-b532-4959-b3cb-8db9972c55e7)
 
 
 
