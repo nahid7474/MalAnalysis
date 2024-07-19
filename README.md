@@ -1,4 +1,4 @@
-In this demonstration, I'll use one of my virtual machine to analyse the infamous wannacry ransomware on Any.run malware analysis platform.  
+In this demonstration, I'll use one of my virtual machines to analyse the infamous wannacry ransomware on Any.run malware analysis platform.  
 
 Background:  
 WannaCry is a ransomware attack that occurred in May 2017, infecting computers worldwide. It exploited a vulnerability in Microsoft's Windows operating system, primarily affecting systems that had not installed a critical security update. WannaCry encrypted files on infected computers and demanded ransom payments in Bitcoin to decrypt them, causing significant disruptions to businesses, hospitals, and government agencies globally before a kill switch was accidentally discovered, slowing its spread.
