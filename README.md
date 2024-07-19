@@ -5,7 +5,7 @@ WannaCry is a ransomware attack that occurred in May 2017, infecting computers w
 
 
 First step, Logged onto one of my test VMs on my VirtualBox.  
-From the browser, Will avigate to any.run which is a web-based malware analysis platform https://app.any.run/ which is publicly available to anyone.  
+From the browser, Will navigate to any.run which is a web-based malware analysis platform https://app.any.run/ publicly available to anyone.  
 
 Next step is to get a malware file that is already submitted by other people.  
 To do this, click on public report on the left.  
