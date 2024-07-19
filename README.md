@@ -39,7 +39,23 @@ This will download the sample file on my test VM, note the password. I'll need i
 Next, boot up a windows machine to run the virus on.  
 To do this, click New analysis from the left menu, Upload the file that was downloaded earler, choose windows 10 64 bit, click Run a public analysis.  
 
-![image](https://github.com/user-attachments/assets/2b075e01-d243-4b71-91f2-cbe7068fe254)
+![image](https://github.com/user-attachments/assets/3cc9b9d1-f76b-444f-b0f4-fa38c55c5113)
+
+Once run on this machine, this has created 18 HTTP Requests, 107 Connections, 31 DNS requests, and detected 8 threats  
+
+![image](https://github.com/user-attachments/assets/c7abe429-e053-4ccd-8e16-e632866ad5c8)
+
+Clicking on each threat link comes up with that threat details.  
+
+![image](https://github.com/user-attachments/assets/380c2474-e443-443c-b5d1-67ba1ca25291)
+
+Clicking on more info brings up all the process information, timeline of each event including MITRE ATT&CK TTP (Tactics, Techniques, and Procedures)  
+
+![image](https://github.com/user-attachments/assets/e2da01a1-2ab5-45b0-89bc-77a46d5839c6)
+
+With behaviour of individual activity, file hash, IP, name etc.  
+
+![image](https://github.com/user-attachments/assets/acd0866e-cfab-4e47-b694-07d4735e518d)
 
 
 
